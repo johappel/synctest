@@ -8,7 +8,9 @@ layout: page
 permalink: http://git.dev/?page_id=2
 published: true
 ---
-change2
+change3
+
+<a href="http://git.dev/wp-content/uploads/2016/05/frank-512px.png"><img class="alignnone size-medium wp-image-10" src="http://git.dev/wp-content/uploads/2016/05/frank-512px-300x300.png" alt="frank-512px" width="300" height="300" /></a>
 
 This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
 <blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my blog. I live in Los Angeles, have a great dog named Jack, and I like piña coladas. (And gettin' caught in the rain.)</blockquote>
