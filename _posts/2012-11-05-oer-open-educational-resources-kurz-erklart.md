@@ -8,9 +8,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/oer-open-educational-resources-kurz-erklart/
 published: true
 post_date: 2012-11-05 18:20:33
-tags: [ ]
-categories:
-  - Allgemein
 ---
 httpvh://www.youtube.com/watch?v=kzOrodJGVbE
 

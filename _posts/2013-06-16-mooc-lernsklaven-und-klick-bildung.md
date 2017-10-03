@@ -10,10 +10,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/mooc-lernsklaven-und-klick-bildung/
 published: true
 post_date: 2013-06-16 16:03:18
-tags: [ ]
-categories:
-  - Bildung
-  - Online Lernen
 ---
 Zu <a href="http://www.digital-lernen.de/nachrichten/diverses/artikel/mooc-lernsklaven-und-klick-bildung.html" target="_blank">MOOC - Lernsklaven und Klick-Bildung</a> von Prof. Ralf Lankau.
 

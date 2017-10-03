@@ -10,9 +10,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/schulserver-uberwachung-durch-schulbuchverlage/
 published: true
 post_date: 2011-11-02 10:55:15
-tags: [ ]
-categories:
-  - Allgemein
 ---
 <img class="alignleft" style="width: 243px;height: 325px" src="http://upload.wikimedia.org/wikipedia/commons/3/3d/Trojanisches_Pferd_in_Ankershagen.jpg" alt="Foto von Christof Bobzin" />Grundlage ist ein Vertrag zwischen VdS Bildungsmedien e.V und den Schulträgern, wonach die Verlage berechtigt werden, Schulserver mittels einer Plagiat-Aufspürungssoftware zu untersuchen, ob und in welchen Umfang Kopien von Schulbüchern, digitalen Bildungsmedien und -dokumenten illegal genutzt werden. Die Ergebnisse sollen dabei helfen, gegen Schulleitung und Lehrpersonal disziplinarisch vorzugehen um die Interessen der Schulbuchverlage zu sichern.<!--more-->
 

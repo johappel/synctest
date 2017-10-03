@@ -10,15 +10,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/welches-eigentum-brauchen-menschen-wirklich/
 published: true
 post_date: 2013-06-16 10:35:10
-tags:
-  - Eigentum
-  - Leistungschutz
-  - Podcast
-  - Urheberrecht
-categories:
-  - Bildungsgerechtigkeit
-  - Digital Divide
-  - OER
 ---
 Unter dem Titel "Gemeinsam nutzen statt alleine haben"  ist im Bayrischen Rundfunk am Sonntag, 16. Juni 2013 08:30 eine Sendung in kritischer Auseinandersetzung mit dem Eigentumsverständnis aus evangelischer Perspektive erstellt worden.
 

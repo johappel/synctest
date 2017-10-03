@@ -10,9 +10,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/juergen-handke-schritte-zu-digitalisierung/
 published: true
 post_date: 2017-06-26 18:08:18
-tags: [ ]
-categories:
-  - Digitale Bildung
 ---
 Digitale Lehre setzt vorraus, dass sie von allen, insbesondere von den Leitungen der Lehranstalten gewollt und die Umsetzung durch deinen Katalog an Maßnahmen und Förderungen begleitet wird. Jürgen Handke erläutert, wie Digitalisierung der Lehre in Gang gesetzt wird:
 

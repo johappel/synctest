@@ -8,9 +8,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/regressive-linke-agnostische-irrlaeufer-oder-neue-religion/
 published: true
 post_date: 2016-07-05 12:41:19
-tags: [ ]
-categories:
-  - Allgemein
 ---
 <p>Erste Anzeichen f&uuml;r das Aufkeimen der ReLi auch in Deutschland gibt es l&auml;ngst, daher ist es wichtig, darauf aufmerksam zu machen. Lesenswert der Beitrag von Cornelius Courts:</p>
 <blockquote>

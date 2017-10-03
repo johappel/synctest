@@ -8,9 +8,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/gemeinsamer-religionsunterricht-in-nrw/
 published: true
 post_date: 2017-09-27 15:15:23
-tags: [ ]
-categories:
-  - Religionsunterricht
 ---
 Ab dem kommenden Schuljahr dürfen katholische und evangelische Schüler in Nordrhein-Westfalen gemeinsamen Religionsunterricht erhalten.
 

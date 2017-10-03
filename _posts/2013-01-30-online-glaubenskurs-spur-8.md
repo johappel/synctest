@@ -8,9 +8,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/online-glaubenskurs-spur-8/
 published: true
 post_date: 2013-01-30 21:51:24
-tags: [ ]
-categories:
-  - Bildung
 ---
 <p>
 	&quot;Erfahrungen im Land des Glaubens&quot; bietet der neue Glaubenskurs der EKD.

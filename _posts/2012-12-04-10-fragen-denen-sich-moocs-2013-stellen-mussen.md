@@ -10,9 +10,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/10-fragen-denen-sich-moocs-2013-stellen-mussen/
 published: true
 post_date: 2012-12-04 13:42:31
-tags: [ ]
-categories:
-  - Allgemein
 ---
 <p>
 	See on <a href="http://www.scoop.it/t/online-lernen-2-0/p/3588590616/10-fragen-denen-sich-moocs-2013-stellen-mussen">Scoop.it</a> - <a href="http://www.scoop.it/t/online-lernen-2-0">Online Lernen 2.0 (ICT &amp; OER)</a><br />

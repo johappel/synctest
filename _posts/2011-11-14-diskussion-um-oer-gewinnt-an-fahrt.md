@@ -8,11 +8,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/diskussion-um-oer-gewinnt-an-fahrt/
 published: true
 post_date: 2011-11-14 10:48:42
-tags: [ ]
-categories:
-  - Bildung
-  - Bildungsgerechtigkeit
-  - Entwicklung
 ---
 <strong>OER, Open Educational Resources</strong>
 Die Sache an und für sich ist nichts neues. Offen und frei zugängliche Ressourcen gibt es schon immer. Seit bestehen des Internet gibt es Initiativen, die diese Ressourcen sammeln und sich gegenseitig zugänglich machen. Eine davon ist rpi-virtuell für den religionspädagogischen Raum.<!--more-->

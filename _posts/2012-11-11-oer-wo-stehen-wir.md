@@ -8,9 +8,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/oer-wo-stehen-wir/
 published: true
 post_date: 2012-11-11 23:29:38
-tags: [ ]
-categories:
-  - Allgemein
 ---
 <p>"Kaum jemand, der sich mit freien Bildungsinhalten (OER) beschäftigt, ist nicht von deren Nutzen überzeugt." "Doch wer soll sie eigentlich erstellen", fragt <a title="OER, wenn nicht Lehrer?" href="http://damianduchamps.wordpress.com/2012/11/11/oer-wenn-nicht-lehrer-wer-dann/" target="_blank">Damian Duchamp</a>. Klar ist: OER entstehen aus der Praxis. In vielen beruflichen Abläufen der Aus-, Fort und Weiterbildung von Lehrern werden ohnehin Bildungsmedien entwickelt, warum also nicht gleich als OER?</p>
 <p>Aber ist jetzt die Zeit schon da, um so richtig los zu legen?</p>

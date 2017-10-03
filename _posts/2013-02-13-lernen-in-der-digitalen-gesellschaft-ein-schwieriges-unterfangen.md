@@ -8,9 +8,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/lernen-in-der-digitalen-gesellschaft-ein-schwieriges-unterfangen/
 published: true
 post_date: 2013-02-13 07:36:16
-tags: [ ]
-categories:
-  - Allgemein
 ---
 <p>
 	See on <a href="http://www.scoop.it/t/online-lernen-2-0/p/3996766330/lernen-in-der-digitalen-gesellschaft-ein-schwieriges-unterfangen" style="font-weight: bold;font-size: 18px">Scoop.it</a> - <a href="http://www.scoop.it/t/online-lernen-2-0">Online Lernen 2.0 (ICT &amp; OER)</a><br />

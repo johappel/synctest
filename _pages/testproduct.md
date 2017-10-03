@@ -8,7 +8,5 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/testproduct/
 published: true
 post_date: 2017-09-30 17:57:06
-tags: [ ]
-categories: [ ]
 ---
 [agilepress board=backlog product=testproduct]

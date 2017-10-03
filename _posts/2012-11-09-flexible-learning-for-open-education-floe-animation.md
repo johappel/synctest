@@ -10,12 +10,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/flexible-learning-for-open-education-floe-animation/
 published: true
 post_date: 2012-11-09 09:23:50
-tags: [ ]
-categories:
-  - Bildung
-  - Bildungsgerechtigkeit
-  - Inklusion
-  - OER
 ---
 <p>
 	httpvh://www.youtube.com/watch?v=G8mqQ7W8dzo

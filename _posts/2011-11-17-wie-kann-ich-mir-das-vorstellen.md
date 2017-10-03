@@ -8,10 +8,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/wie-kann-ich-mir-das-vorstellen/
 published: true
 post_date: 2011-11-17 18:07:43
-tags:
-  - OER
-categories:
-  - Unterrichtsmaterial
 ---
 Mit großen technischen und personellen Aufwand wurde die <a href="http://www.evangelischer-widerstand.de/#" target="_blank" rel="noopener">Online-Ausstellung</a> "Widerstand!? Evangelische Christinnen und Christen im Nationalsozialismus" produziert.
 

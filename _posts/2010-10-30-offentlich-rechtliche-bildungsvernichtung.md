@@ -10,13 +10,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/offentlich-rechtliche-bildungsvernichtung/
 published: true
 post_date: 2010-10-30 13:11:22
-tags:
-  - Bildungsrecht
-  - Copyright
-categories:
-  - Bildung
-  - Bildungsgerechtigkeit
-  - Digital Divide
 ---
 <a href="http://blogs.rpi-virtuell.de/joachim-happel/2010/10/30/offentlich-rechtliche-bildungsvernichtung/depublikation/" rel="attachment wp-att-159"><img class="alignleft size-thumbnail wp-image-159" src="http://blogs.rpi-virtuell.de/joachim-happel/wp-content/uploads/sites/20/2010/11/depublikation-250x200.jpg" alt="" width="250" height="200" /></a>Wer unter <a href="http://www.depublizieren.de/">http://www.depublizieren.de/</a> einem Scherz vermutet, wird schnell eines Besseren belehrt, wenn er in den öffentlich rechtlichen Archiven von ZDF und ARD nach kulturell und politisch relevanten Beiträgen aus der Vergangenheit sucht.
 

@@ -8,11 +8,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/geistiges-eigentum/
 published: true
 post_date: 2012-04-14 14:38:04
-tags: [ ]
-categories:
-  - Bildung
-  - Bildungsgerechtigkeit
-  - Digital Divide
 ---
 <p>Je häufiger ich dieses Wort höre, desto mehr kommen mir die Zweifel, ob es so etwas überhaupt geben kann. Was unterscheidet geistiges Eigentum von der Luft, die mal durch meine Lungen gegangen ist? Kann man etwas Geistiges überhaupt besitzen?<!--more--></p>
 <p>Ich vermute mal, dass die gesamte Entwicklung der Menschheit und vielleicht darüber hinaus alle intelligenten Wesen darauf angewiesen sind, dass Wissen, Fertigkeiten und Erkenntnisse nicht nur weitergegeben, sondern auch transferiert und weiterentwickelt werden. Es ist überlebensnotwendig für die Menschheit, dass sie an den geistigen Dingen teil hat, mitdenkt und das Gedankengut von vielen in diesen Prozess wieder einfließen kann.</p>

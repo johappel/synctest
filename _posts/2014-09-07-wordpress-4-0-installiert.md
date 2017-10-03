@@ -8,9 +8,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/wordpress-4-0-installiert/
 published: true
 post_date: 2014-09-07 12:54:12
-tags: [ ]
-categories:
-  - Allgemein
 ---
 rpi-virtuell kommen nun in den Genuss des neuen WordPress 4.0
 

@@ -8,12 +8,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/pisa-studienergebnisse-kuenftig-nur-noch-in-hoerbuchform-erhaeltlich/
 published: true
 post_date: 2013-10-09 19:54:47
-tags:
-  - Kompetenzen
-categories:
-  - Bildung
-  - Google+ Activitystream
-  - Satire
 ---
 Nach den desolaten Ergebnissen des neuesten Pisa-Tests für Erwachsene zieht die OECD nun erste Konsequenzen. Weil die sogenannte PIAAC-Studie (Pisa für Erwachsene) ergab, dass sich das Leseverständnis vieler Bürger von Industrienationen auf dem Niveau von Schulkindern befindet, sollen Studienergebnisse künftig nur noch in Hörbuchform präsentiert werden (<a href="http://www.der-postillon.com/2013/10/pisa-studienergebnisse-kunftig-nur-noch.html">heute Morgen im Postilion nachzulesen</a>).
 

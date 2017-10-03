@@ -8,13 +8,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/iqbis-blended-learning/
 published: true
 post_date: 2014-12-12 15:51:59
-tags:
-  - Blended Learning
-  - Projektmanagement
-  - Qualitätsmanagement
-  - Qualitätssicherung
-categories:
-  - Online Lernen
 ---
 &nbsp;
 <blockquote>&nbsp;

@@ -8,13 +8,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/gemeinde-schule-fuers-leben/
 published: true
 post_date: 2013-10-19 11:21:04
-tags:
-  - Gemeindepädagogik
-  - Lernen
-categories:
-  - Guter Unterricht
-  - Kompetenzorientierung
-  - openreli
 ---
 <strong>openreli</strong>. Kompetenzorientierung hin oder her, letztlich geht es um die Frage: Wodurch wird Lernen wirksam und nachhaltig?
 

@@ -8,20 +8,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/lernen-in-verteilten-systemen/
 published: true
 post_date: 2014-12-15 15:03:47
-tags:
-  - Blended Learning
-  - connectivism
-  - elaerning
-  - Learn-Managment-Systemen
-  - LTI
-  - mark keywords
-  - MOOCs
-  - online bildung
-  - Open education
-  - Stephen Downes
-  - syndicated learning
-categories:
-  - Online Lernen
 ---
 Auch Vordenker Steven Downes entwickelt an der nächsten Generation von Learn-Managment-Systemen  (s.u.). Im Kern handelt es sich um ein "Patchwork" vieler im Netz vorhandener Applikationen, die die Nutzer für ihre Lernbedürfnisse indiviruell zusammenstellen können und die unterschiedlichsten Lernaktivitäten miteinander  verbinden. Man müsse eine Lernumgebung von mehreren Providern zusammenzuführt denken, in der jeder Nutzer seine eigene individuelle Instanz einrichten kann (Like a browser, each person has his or her own instance of LPSS - each LPSS is individually owned). Verbindend ist nicht nur die  Authentifizierung an einem gemeinsamen Autentifizierungssystem (using technology such as OAuth, it can eliminate the need to register at multiple services), sondern auch die Schnittstellen und Protokolle (zum Beispiel über JSON formatted data exchange), die es eine direkte Verbindungung mit den Lernressourcen bereitstellen.
 <blockquote>This year we are building on work we have undertaken over the last few years to develop and deploy the next generation of learning technologies, which we are calling ‘<a href="http://lpss.me/about" target="_blank">learning and performance support systems</a>’. (LPSS ) This is the outcome of an internal prototype called Plearn – ‘Personal Learning Environment and Research Network’ – and develops the idea of learning support based on personal and individual needs. This is not simply ‘personalised’ learning, it is a step beyond that. Rather than offering a customised version of some generic offering, we propose to enable each learner to develop their own custom programme from the ground up.</blockquote>

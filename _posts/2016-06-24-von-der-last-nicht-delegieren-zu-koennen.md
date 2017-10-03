@@ -10,9 +10,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/von-der-last-nicht-delegieren-zu-koennen/
 published: true
 post_date: 2016-06-24 17:49:32
-tags: [ ]
-categories:
-  - Allgemein
 ---
 http://projekte-leicht-gemacht.de/blog/pm-in-der-praxis/9-gruende-warum-du-probleme-hast-aufgaben-abzugeben/
 

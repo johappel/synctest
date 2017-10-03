@@ -14,9 +14,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/arbeiten-4-0-klassische-fuehrungskraefte-abgeschafft/
 published: true
 post_date: 2015-09-02 00:17:52
-tags: [ ]
-categories:
-  - Entwicklung
 ---
 Gemeinsam entscheiden, gemeinsam Verantwortung tragen sind Merkmale der zeitgemäßer Unternehmenskultur. Das funktioniert aber nur, wenn es nicht auf Kosten des Individuums geht. Im Zentrum steht deshalb die Mitarbeiterin und der Mitarbeiter mit ihren jeweiligen Bedürfnissen.
 

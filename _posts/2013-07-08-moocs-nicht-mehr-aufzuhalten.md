@@ -8,10 +8,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/moocs-nicht-mehr-aufzuhalten/
 published: true
 post_date: 2013-07-08 16:24:31
-tags: [ ]
-categories:
-  - Bildung
-  - Online Lernen
 ---
 Das Netz macht sich daran, ganze Lehrsysteme zu verändern. Kostenlose Vorlesungen, Studium von Zuhause ohne Immatrikulation.  Sind Massive Open Online Courses das Lernformat der Zukunft und brauchen wir in Zukunft nur noch wenige Universitäten?
 <!--more-->

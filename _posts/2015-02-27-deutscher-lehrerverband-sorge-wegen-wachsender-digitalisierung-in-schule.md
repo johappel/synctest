@@ -8,9 +8,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/deutscher-lehrerverband-sorge-wegen-wachsender-digitalisierung-in-schule/
 published: true
 post_date: 2015-02-27 12:13:56
-tags: [ ]
-categories:
-  - Bildung
 ---
 Im Deutschlandradio Kultur wurde gestern ein denkwürdiges Interview unter dem Titel <a href="http://www.deutschlandradiokultur.de/schule-lehrerverband-warnt-vor-totaler-zwangsdigitalisierung.1008.de.html?dram:article_id=312601"><strong>Lehrerverband warnt vor "totaler Zwangsdigitalisierung"</strong> </a>mit Josef Kraus, dem Präsidenten des deutschen Lehrerverbandes, anlässlich der Didacta gesendet.
 

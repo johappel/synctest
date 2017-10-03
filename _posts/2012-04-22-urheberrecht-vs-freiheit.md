@@ -8,10 +8,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/urheberrecht-vs-freiheit/
 published: true
 post_date: 2012-04-22 17:55:57
-tags:
-  - Urheberrecht
-categories:
-  - Bildungsgerechtigkeit
 ---
 Der Berliner Kulturwissenschaftler Michael Seemann sieht im Blick auf das Internet keine Vermittlungschancen zwischen diesen beiden Grundwerten. Während das Urheberrecht vorsieht, dass der Urheber selbst über die Art und den Umstand der Verbreitung entscheiden kann, ist eine im Internet eingestellte Datei der Beginn eines nicht kontrollierbaren Prozesses von immer weiteren Kopiervorgängen<!--more-->, unabhängig davon, ob dies über Email, Filesharing oder Downloads auf Webseiten geschieht.
 

@@ -8,9 +8,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/httpscacoo-comdiagramsao899kc1ly4bqjjeim-nachgang-zu-den-im-kurs-verwendeten-funktionalitaeten/
 published: true
 post_date: 2013-04-02 14:33:14
-tags: [ ]
-categories:
-  - Google+ Activitystream
 ---
 <a class="ot-anchor" href="https://cacoo.com/diagrams/Ao899kC1LY4bqJje" rel="nofollow">https://cacoo.com/diagrams/Ao899kC1LY4bqJje</a>
 

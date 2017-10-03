@@ -8,9 +8,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/fragen-zum-mooc-kursdesign-mmc13-der-open-mooc-maker-course-2013/
 published: true
 post_date: 2012-11-23 10:28:28
-tags: [ ]
-categories:
-  - Allgemein
 ---
 Warum muss man sich bei einem "offenen" Online-Kurs überhaupt anmelden? 
 

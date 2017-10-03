@@ -8,11 +8,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/rpi-virtuell-2017-ueberlegung-fuer-eine-neukonzeption/
 published: true
 post_date: 2014-01-09 10:27:08
-tags: [ ]
-categories:
-  - Entwicklung
-  - Online Lernen
-  - Technik
 ---
 <p dir="ltr">Gestern trafen sich in Düsseldorf die Leiter des Comenius-Institutes, ein Vertreter des wissenschaftliches Beirates und eine Vertreterin LearningLab aus Duisburg, um gemeinsam mit dem Leitungsteam über die Weiterentwicklung von rpi-virtuell zu diskutieren. Grundlage für die Diskussion war ein erster Zukunftsentwurf aus Sicht des Leitungsteams von rpi-virtuell:<!--more--></p>
 

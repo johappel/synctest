@@ -10,9 +10,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/httpwww1-wdr-demediathekvideosendungenlokalzeitlokalzeit-bergisches-landvideobehindertemues/
 published: true
 post_date: 2013-12-19 22:55:09
-tags: [ ]
-categories:
-  - Google+ Activitystream
 ---
 <div class="g-crossposting-att">
 <div class="g-crossposting-att-title"><a href="http://www1.wdr.de/mediathek/video/sendungen/lokalzeit/lokalzeit-bergisches-land/videobehindertemuessenambahnhofindenlastenaufzug100_size-L.html?autostart=true#banner" target="_blank">Behinderte müssen am Bahnhof in den Lastenaufzug : Lokalzeit Bergisches Land vom 19.12.2013 - WDR MEDIATHEK</a></div>

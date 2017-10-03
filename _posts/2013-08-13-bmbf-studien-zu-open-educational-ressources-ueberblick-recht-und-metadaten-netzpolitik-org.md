@@ -8,12 +8,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/bmbf-studien-zu-open-educational-ressources-ueberblick-recht-und-metadaten-netzpolitik-org/
 published: true
 post_date: 2013-08-13 07:43:35
-tags: [ ]
-categories:
-  - Bildung
-  - Entwicklung
-  - OER
-  - Online Lernen
 ---
 Seit Beginn des Jahres 2012 hat sich in Deutschland das Interesse am Thema OER auf verschiedenen Ebenen merklich verstärkt. Nach der ersten Expertenanhörung des BMBF und der KMK zum Thema offener Bildungsressourcen(OER). Inzwischen liegen die ersten drei Studien vor, die im Nachgang der Anhörung in Auftrag gegeben worden waren.
 <!--more-->

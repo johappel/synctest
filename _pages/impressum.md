@@ -8,8 +8,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/impressum/
 published: true
 post_date: 2017-07-05 10:56:24
-tags: [ ]
-categories: [ ]
 ---
 V.S.d.P
 

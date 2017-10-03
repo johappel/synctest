@@ -8,9 +8,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/bekenntnis-zum-bekenntnis/
 published: true
 post_date: 2017-09-27 15:07:33
-tags: [ ]
-categories:
-  - Religionsunterricht
 ---
 Artikel 7 des Grundgesetzes setzt den Religionsunterricht als ordentliches Lehrfach an staatlichen Schulen. Die Kritik an diesem Fach wächst jedoch. Wie stehen die Parteien zum Religionsunterricht? Auch wenn die Konzepte unterschiedlich sind: Insgesamt sehen nahezu alle Parteien religiöse Bildung an Schulen und Universitäten als notwendig an - auch mit Blick auf den gesellschaftlichen Frieden. Denn, so die Annahme: Wo unter den Menschen das Verständnis für Religion verloren gehe, steige die Gefahr von Konflikten.
 

@@ -10,13 +10,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/einsatz-von-blogs-in-der-religionspaedagogischen-praxis/
 published: true
 post_date: 2013-09-13 08:47:28
-tags: [ ]
-categories:
-  - Bildung
-  - Entwicklung
-  - openreli
-  - Technik
-  - Wordpress
 ---
 Im wissenschaftlichen und pädagogischen Alltag spielen Blogs für die eigene Reflexion und die Kommunikation im Kollegenkreis eine wachsende Rolle. Die vielfältigen Funktionen eines Blogs ermöglichen neben einfachen Artikeln auch den medialen Einsatz in Lernprozssen. Lehrer- und Lernertagebücher, Aufgabensammlungen und Übungen, Unterrichtsprotokolle, Portfolios, Diskussionsforen, Mediensammlungen, Rezensionen, Praxistipps, virtuelle Lernreisen, interaktive Rätsel.... sind nur einige Stichworte, die den Einsatz von Blogs in der religionspädagogischen Praxis interessant machen können.
 

@@ -8,17 +8,6 @@ permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/am-ende-geht-es-um-uns/
 published: true
 post_date: 2012-11-15 00:03:55
-tags:
-  - Menschenrechte
-  - Recht auf Bildung
-  - Scientology
-  - Urheberrecht
-categories:
-  - Bildung
-  - Bildungsgerechtigkeit
-  - Digital Divide
-  - openreli
-  - Unterrichtsmaterial
 ---
 <strong>Erklärung der Menschenrechte, </strong><strong>Vereinte Nationen, </strong><strong>1948</strong>
 http://www.youtube.com/watch?v=VEpGjD_u7mg
