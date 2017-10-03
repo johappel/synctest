@@ -14,7 +14,7 @@ post_date: 2017-09-27 14:32:29
 
 deutsch:<a href="https://de.wikipedia.org/wiki/Personal_Learning_Environment"> p<i>ersönliche Lernumgebung</i></a>. Obwohl die rein sprachliche Übersetzung prinzipiell die gesamte persönliche Lernumgebung meint (z. B. Schreibtisch, Bücherei, Internet, PC, Schule, Uni, etc.), wird mit dem Akronym PLE meist die individuelle Zusammenstellung von (Social-)Software, Web-Services und Mobilen Technologien, die das zumeist informelle Lernen mit dem Computer unterstützen, verstanden. Im Unterschied zu einem konventionellen Learning Management System (LMS) wie Moodle oder ILIAS, ist ein PLE nicht an eine Institution oder einen Kurs gebunden. Es erlaubt die individuelle Nutzung beliebiger Wissensmanagement Werkzeuge zur Aggregation, Reflexion und Repräsentation externen Wissens und zur Generation eigener Wissensdomänen, die in den folgenden Kapiteln erläutert werden:
 <h2>Sammeln und Strukturieren</h2>
-<a href="https://www.inoreader.com/?lang=de_DE">Inoreader</a> (RSS -Reader )
+<a href="https://www.inoreader.com/?lang=de_DE">Inoreader</a> (RSS -Reader)
 
 https://www.youtube.com/watch?v=AnqLPl_w33k
 <h2>Bewerten, Entscheiden und Reflektieren</h2>
