@@ -1,6 +1,6 @@
 ---
 ID: 1299
-post_title: Interaktives Video als Adventure
+post_title: 'Gamification: Interaktive Videoabendteuer'
 author: Joachim Happel
 post_excerpt: ""
 layout: post
