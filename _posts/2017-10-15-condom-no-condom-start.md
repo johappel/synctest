@@ -10,7 +10,7 @@ published: true
 post_date: 2017-10-15 14:15:15
 ---
 <strong>Super Mario: An Interactive Adventure Game! </strong>
-Von Dr. Cool Sex kommt dieser Super Mario Clip. Es ist Marios und Deine Aufgabe die Prinzessin zu retten. Schaffst Du es? Viel Erfolg!
+Super Mario soll die Prinzessin zu retten. Schaffst Du es? Viel Erfolg!
 
 https://www.youtube.com/watch?time_continue=53&amp;v=mgbuHms0-fU
 
