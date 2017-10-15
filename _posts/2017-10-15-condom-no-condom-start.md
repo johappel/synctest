@@ -9,15 +9,20 @@ permalink: >
 published: true
 post_date: 2017-10-15 14:15:15
 ---
-Super Mario soll die Prinzessin zu retten. Schaffst Du es? Viel Erfolg!
+Die folgenden Videos sind nicht als Medien für den Unterricht gedacht sondern viel mehr als Anregung, interaktive Videos zu produzieren.
+
+Das erste Video ist ein Bildrätsel. Findest du die Unterschiede in den Bildern im folegen Video
+
+https://www.youtube.com/watch?time_continue=1&amp;v=9bULuXulWVA
+&nbsp;
+
+Interaktive Videos machen besonders Spass, wenn der Zuschauer selbst den auf den Fortgang des Films Einfluss nehmen kann.
+
+Natürlich brauchte es in jedem Spannenden Film Helden: Super Mario soll die Prinzessin zu retten. Schaffst Du es? Viel Erfolg! 
 
 https://www.youtube.com/watch?time_continue=53&amp;v=mgbuHms0-fU
 
-Findest du die Unterschiede in den Bildern im folegen Video
-
-https://www.youtube.com/watch?time_continue=1&amp;v=9bULuXulWVA
-
-Nur die richtigen Entscheidungen können dich retten. Viel Glück!
+Eine nostalgische Jagd durch die Zeiten. Nur die richtigen Entscheidungen können dich retten. Viel Glück!
 
 https://www.youtube.com/watch?v=l8rJ1WML60Y
 
