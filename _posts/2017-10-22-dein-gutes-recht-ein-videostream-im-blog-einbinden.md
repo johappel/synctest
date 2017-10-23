@@ -19,7 +19,7 @@ Wann die Definition "offensichtlich illegal"  gilt, hängt unter anderem von de
 
 Bei YouTube werden Nutzer schon auf Grund der <a href="https://www.youtube.com/static?gl=DE&amp;template=terms&amp;hl=de">Nutzungsbedingungen von Youtube</a> davon ausgehen dürfen, dass die dortigen Inhalte rechtmäßig sind. Anders wird es bei Portalen wie etwa kinox.to aussehen.  Äusertste Vorsicht ist bei Filme geboten, die gerade erst in den Kinos anlaufen oder Serien die sonst nur im Pay-TV zu sehen sind, ebenso wenn erkennbar ist. Noch offensichtlicher ist die Rechtswidrigkeit,  wenn Filme etwa mit dem Handy im Kino oder von anderen Geräten abgefilmt wurden.
 
-Wer hundertprozentig sicher gehen will, dass das Video legal auf der Plattform ist und nicht gelöscht wird, kann dem Urheber oder Lizenzinhaber mitteilen, dass er/sie ein bei Youtube veröffentlichtes Video in seinem/ihren Blogartikel einbetten (framen) möchte. Damit gibt man die Gelegenheit, das der Lizenzinhaber der Nutzung zustimmt oder andernfalls das Video als illegal meldet. In dem Falle es würde der Clip bei Youtube dann sehr schnell gesperrt.
+Wer hundertprozentig sicher gehen will, dass das Video legal auf der Plattform ist und nicht gelöscht wird, kann dem Urheber oder Lizenzinhaber mitteilen, dass er/sie ein bei Youtube veröffentlichtes Video in seinem/ihren Blogartikel einbetten (framen) möchte. Damit räumt man dem Lizeninhaber die Gelegenheit ein, der geplanten Nutzung zuzustimmen oder das Video ggf. als illegal zu melden. In dem Falle es würde der Clip bei Youtube dann sehr schnell gesperrt.
 
 Mehr dazu bei <a href="https://irights.info/">irights.info</a>
 <ul>
