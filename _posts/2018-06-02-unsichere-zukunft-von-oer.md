@@ -17,3 +17,4 @@ Nachdenklich stimmt mich die Intervention von <a href="https://www.downes.ca/pos
 <blockquote>Ich denke, dass, solange Sie an OERs als Lehrmittel denken, sie nie funktionieren werden. Sie sollten als Lernressourcen betrachtet werden. Ermutigen Sie die Studenten, sie zu finden, zu teilen und zu produzieren (das war eine der Kernideen hinter dem ersten MOOC und sie wurde aus dem Leben gerissen).
 
 Vielleicht brauchen wir ein neues Konzept. Ich werde mich aus dem Fenster lehnen und ihm einen Namen geben - OERSS. Open Educational Rersource - Schüleraustausch. Oder Open Educational RSS. Such dir eine aus. Es sind offene Ressourcen, die von den Schülern gefunden, erstellt, genutzt und geteilt werden. Die wirklich offenen Bildungsressourcen.</blockquote>
+&nbsp;
