@@ -2,7 +2,20 @@
 ID: 1348
 post_title: Unsichere Zukunft von OER?
 author: Joachim Happel
-post_excerpt: ""
+post_excerpt: >
+  Tom Berger stellt in seiner Artikel "The
+  Uncertain Future of OER" die Entwicklung
+  von OER der letzten 15 Jahre einige
+  unbequeme Fragen, vor allem, dass nie
+  geklärt wurde, wo, in welcher Form OER
+  erstellt, abgelegt und gefunden werden
+  können. OER Commons, Curriki oder
+  andere Repositorien haben bisher keine
+  Lösungen. In seiner Vorstellung muss es
+  ein allumfassendes Wikipedia ähnliches
+  System geben, wo freie Bildungsmedien
+  entwickelt werden. Doch davon sind wir
+  wohl noch weit weg.
 layout: post
 permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/unsichere-zukunft-von-oer/
