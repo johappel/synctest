@@ -5,7 +5,7 @@ author: Joachim Happel
 post_excerpt: ""
 layout: post
 permalink: >
-  https://blogs.rpi-virtuell.de/joachim-happel/2017/10/critical-literacy-basis-kompetenzen-in-2-min-von-stephen-downes/
+  http://blogs.rpi-virtuell.de/joachim-happel/2017/10/critical-literacy-basis-kompetenzen-in-2-min-von-stephen-downes/
 published: true
 post_date: 2017-10-24 19:18:38
 ---
