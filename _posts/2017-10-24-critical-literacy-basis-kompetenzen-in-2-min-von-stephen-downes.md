@@ -9,9 +9,5 @@ permalink: >
 published: true
 post_date: 2017-10-24 19:18:38
 ---
-<!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=oMxLh_o9YGY\u0026feature=push-u\u0026attr_tag=TwvjEh8UlxvA464D-6","type":"video","providerNameSlug":"youtube"} -->
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube">https://www.youtube.com/watch?v=oMxLh_o9YGY&amp;feature=push-u&amp;attr_tag=TwvjEh8UlxvA464D-6</figure>
-<!-- /wp:core-embed/youtube -->
-
-<!-- wp:heading -->
+<p>https://www.youtube.com/watch?v=oMxLh_o9YGY&amp;feature=push-u&amp;attr_tag=TwvjEh8UlxvA464D-6</p>
 <p>&nbsp;</p>
