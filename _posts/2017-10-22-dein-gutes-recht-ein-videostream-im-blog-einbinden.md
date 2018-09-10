@@ -2,7 +2,15 @@
 ID: 1314
 post_title: 'Dein gutes Recht: Videostreams einbetten'
 author: Joachim Happel
-post_excerpt: ""
+post_excerpt: >
+  Ich möchte gerne einen Werbeclip, den
+  ich in der Youtube-Community Plattform
+  entdeckt habe, auf meine Webseite
+  einbinden. Teilnehmende meines Kurses
+  können dort weiterführende Infos zum
+  dem Film finden und eine Rätsel, dass
+  ich mit dem Frame, in dem das Video
+  läuft verknüpft habe. Darf ich das?
 layout: post
 permalink: >
   http://blogs.rpi-virtuell.de/joachim-happel/2017/10/dein-gutes-recht-ein-videostream-im-blog-einbinden/
