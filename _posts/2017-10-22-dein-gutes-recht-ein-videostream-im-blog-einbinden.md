@@ -5,7 +5,7 @@ author: Joachim Happel
 post_excerpt: ""
 layout: post
 permalink: >
-  http://blogs.rpi-virtuell.de/joachim-happel/dein-gutes-recht-ein-videostream-im-blog-einbinden/
+  http://blogs.rpi-virtuell.de/joachim-happel/2017/10/dein-gutes-recht-ein-videostream-im-blog-einbinden/
 published: true
 post_date: 2017-10-22 12:32:52
 ---
